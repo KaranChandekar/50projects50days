@@ -14,3 +14,7 @@ body {
   overflow: hidden;
   margin: 0;
 }
+
+.container {
+  text-align: center;
+}

@@ -11,3 +11,7 @@ body {
   overflow-x: hidden;
   margin: 0;
 }
+
+.container {
+  background-color: #fafafa;
+}

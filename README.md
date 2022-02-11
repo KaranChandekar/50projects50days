@@ -34,4 +34,4 @@ click here - [Day 4](hidden-search/day4.md)
 
 Blurry Loading
 
-click here - [Day 5](blurry-loading/day4.md)
+click here - [Day 5](blurry-loading/day5.md)

@@ -9,8 +9,15 @@ Expanding Cards
 click here - [Day 1](expanding-cards/day1.md)
 
 
-## Day 1
+## Day 2
 
 Progress Steps
 
 click here - [Day 2](progress-steps/day2.md)
+
+
+## Day 3
+
+Rotating Nav Animation
+
+click here - [Day 3](rotating-nav-animation/day3.md)

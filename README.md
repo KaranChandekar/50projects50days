@@ -28,3 +28,10 @@ click here - [Day 3](rotating-nav-animation/day3.md)
 Hidden Search
 
 click here - [Day 4](hidden-search/day4.md)
+
+
+## Day 5
+
+Blurry Loading
+
+click here - [Day 5](blurry-loading/day4.md)

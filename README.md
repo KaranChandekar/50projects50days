@@ -21,3 +21,10 @@ click here - [Day 2](progress-steps/day2.md)
 Rotating Nav Animation
 
 click here - [Day 3](rotating-nav-animation/day3.md)
+
+
+## Day 4
+
+Hidden Search
+
+click here - [Day 4](hidden-search/day4.md)

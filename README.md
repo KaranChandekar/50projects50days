@@ -35,3 +35,10 @@ click here - [Day 4](hidden-search/day4.md)
 Blurry Loading
 
 click here - [Day 5](blurry-loading/day5.md)
+
+
+## Day 6
+
+Scroll Animation
+
+click here - [Day 6](scroll-animation/day6.md)

@@ -46,6 +46,16 @@ h1 {
   padding: 1.5rem;
 }
 
+.split.left .btn:hover {
+  background-color: var(--left-btn-hover-color);
+  border-color: var(--left-btn-hover-color);
+}
+
+.split.right .btn:hover {
+  background-color: var(--right-btn-hover-color);
+  border-color: var(--right-btn-hover-color);
+}
+
 .container {
   position: relative;
   width: 100%;

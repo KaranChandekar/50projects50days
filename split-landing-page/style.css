@@ -101,3 +101,11 @@ h1 {
   height: 100%;
   background-color: var(--right-bg-color);
 }
+
+.hover-left .left {
+  width: var(--hover-width);
+}
+
+.hover-left .right {
+  width: var(--other-width);
+}

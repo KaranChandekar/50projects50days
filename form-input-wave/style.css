@@ -45,6 +45,14 @@ body {
   border-radius: 5px;
 }
 
+.btn:focus {
+  outline: 0;
+}
+
+.btn:active {
+  transform: scale(0.98);
+}
+
 .form-control {
   position: relative;
   margin: 20px 0 40px;

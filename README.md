@@ -49,3 +49,10 @@ click here - [Day 6](scroll-animation/day6.md)
 Split Landing Page
 
 click here - [Day 7](split-landing-page/day7.md)
+
+
+## Day 8
+
+Form Input Wave
+
+click here - [Day 8](form-input-wave/day8.md)

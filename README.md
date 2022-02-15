@@ -42,3 +42,10 @@ click here - [Day 5](blurry-loading/day5.md)
 Scroll Animation
 
 click here - [Day 6](scroll-animation/day6.md)
+
+
+## Day 7
+
+Split Landing Page
+
+click here - [Day 7](split-landing-page/day7.md)

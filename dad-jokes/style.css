@@ -40,3 +40,13 @@ h3 {
   margin: 50px auto;
   max-width: 600px;
 }
+
+.btn {
+  background-color: #9f68e0;
+  border: 0;
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1), 0 6px 6px rgba(0, 0, 0, 0.1);
+  padding: 14px 40px;
+  font-size: 16px;
+  cursor: pointer;
+}

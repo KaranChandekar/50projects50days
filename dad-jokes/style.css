@@ -32,3 +32,11 @@ h3 {
   opacity: 0.5;
   letter-spacing: 2px;
 }
+
+.joke {
+  font-size: 30px;
+  letter-spacing: 1px;
+  line-height: 40px;
+  margin: 50px auto;
+  max-width: 600px;
+}

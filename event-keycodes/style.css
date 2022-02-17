@@ -5,11 +5,12 @@
 }
 
 body {
+  background-color: #e1e1e1;
   font-family: "Muli", sans-serif;
   display: flex;
-  flex-direction: column;
   align-items: center;
   justify-content: center;
+  text-align: center;
   height: 100vh;
   overflow: hidden;
   margin: 0;

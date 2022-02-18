@@ -67,6 +67,13 @@ click here - [Day 9](sound-board/day9.md)
 
 ## Day 10
 
+Dad Jokes
+
+click here - [Day 10](dad-jokes/day10.md)
+
+
+## Day 11
+
 Event KeyCodes
 
-click here - [Day 10](event-keycodes/day10.md)
+click here - [Day 11](event-keycodes/day11.md)

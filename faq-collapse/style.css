@@ -87,3 +87,11 @@ h1 {
 .faq-toggle .fa-times {
   display: none;
 }
+
+.faq.active .faq-toggle .fa-times {
+  display: block;
+}
+
+.faq.active .faq-toggle .fa-chevron-down {
+  display: none;
+}

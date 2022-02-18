@@ -77,3 +77,10 @@ click here - [Day 10](dad-jokes/day10.md)
 Event KeyCodes
 
 click here - [Day 11](event-keycodes/day11.md)
+
+
+## Day 12
+
+FAQ Collapse
+
+click here - [Day 12](faq-collapse/day12.md)

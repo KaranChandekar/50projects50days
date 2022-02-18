@@ -47,3 +47,10 @@ h1 {
   left: 20;
   z-index: 0;
 }
+
+.faq.active::before {
+  color: #3498db;
+  top: -10px;
+  left: -30px;
+  transform: rotateY(180deg);
+}

@@ -83,3 +83,7 @@ h1 {
   height: 30px;
   width: 30px;
 }
+
+.faq-toggle .fa-times {
+  display: none;
+}

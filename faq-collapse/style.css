@@ -43,8 +43,8 @@ h1 {
   font-size: 7rem;
   position: absolute;
   opacity: 0.2;
-  top: 20;
-  left: 20;
+  top: 20px;
+  left: 20px;
   z-index: 0;
 }
 
@@ -71,6 +71,7 @@ h1 {
 .faq-toggle {
   background-color: transparent;
   border: 0;
+  border-radius: 50%;
   cursor: pointer;
   display: flex;
   align-items: center;
@@ -84,14 +85,23 @@ h1 {
   width: 30px;
 }
 
+.faq-toggle:focus {
+  outline: 0;
+}
+
 .faq-toggle .fa-times {
   display: none;
 }
 
 .faq.active .faq-toggle .fa-times {
+  color: #fff;
   display: block;
 }
 
 .faq.active .faq-toggle .fa-chevron-down {
   display: none;
+}
+
+.faq.active .faq-toggle {
+  background-color: #9fa4a8;
 }

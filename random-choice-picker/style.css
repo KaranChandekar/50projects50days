@@ -15,3 +15,8 @@ body {
   overflow: hidden;
   margin: 0;
 }
+
+h3 {
+  color: #fff;
+  margin: 10px 0 20px;
+}

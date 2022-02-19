@@ -45,3 +45,7 @@ function pickRandomTag() {
 function highlightTag() {
   tag.classList.add("highlight");
 }
+
+function umHighlightTag() {
+  tag.classList.remove("highlight");
+}

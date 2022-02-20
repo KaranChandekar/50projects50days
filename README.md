@@ -91,3 +91,10 @@ click here - [Day 12](faq-collapse/day12.md)
 Random Choice Picker
 
 click here - [Day 13](random-choice-picker/day13.md)
+
+
+## Day 14
+
+Animated Navigation
+
+click here - [Day 14](animated-navigation/day14.md)

@@ -84,3 +84,10 @@ click here - [Day 11](event-keycodes/day11.md)
 FAQ Collapse
 
 click here - [Day 12](faq-collapse/day12.md)
+
+
+## Day 13
+
+Random Choice Picker
+
+click here - [Day 13](random-choice-picker/day13.md)

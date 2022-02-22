@@ -55,6 +55,11 @@ h3 {
   transition: 0.3s ease;
 }
 
+.cup.cup-small.full {
+  background-color: var(--fill-color);
+  color: #fff;
+}
+
 .cups {
   display: flex;
   flex-wrap: wrap;

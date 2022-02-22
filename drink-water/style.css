@@ -13,3 +13,7 @@ body {
   align-items: center;
   margin-bottom: 40px;
 }
+
+h1 {
+  margin: 10px 0 0;
+}

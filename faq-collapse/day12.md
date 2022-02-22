@@ -19,3 +19,9 @@ Created FAQ collapse project!
  - [Twitter](https://twitter.com/karan_chandekar)
  - [Linkedin](https://www.linkedin.com/in/karan-chandekar-a87263219/)
 
+
+## Demo
+
+
+https://user-images.githubusercontent.com/93200960/155155462-6402dbcd-e3b8-4570-9529-96fa61243273.mp4
+

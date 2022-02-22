@@ -53,3 +53,11 @@ h3 {
   margin: 5px;
   transition: 0.3s ease;
 }
+
+.cups {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  width: 280px;
+}

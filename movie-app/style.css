@@ -55,3 +55,7 @@ main {
   overflow: hidden;
   border-radius: 3px;
 }
+
+.movie img {
+  width: 100%;
+}

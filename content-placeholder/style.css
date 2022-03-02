@@ -94,3 +94,13 @@ img {
   height: 10px;
   width: 100%;
 }
+
+@keyframes bgPos {
+  0% {
+    background-position: 50% 0;
+  }
+
+  100% {
+    background-position: -150% 0;
+  }
+}

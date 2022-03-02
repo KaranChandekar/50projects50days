@@ -45,3 +45,12 @@ img {
   height: 20px;
   margin: 0;
 }
+
+.card-excerpt {
+  color: #777;
+  margin: 10px 0 20px;
+}
+
+.author {
+  display: flex;
+}

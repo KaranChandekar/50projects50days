@@ -86,3 +86,11 @@ img {
   background-size: 200% 100%;
   animation: bgPos 1s linear infinite;
 }
+
+.animated-bg-text {
+  border-radius: 50px;
+  display: inline-block;
+  margin: 0;
+  height: 10px;
+  width: 100%;
+}

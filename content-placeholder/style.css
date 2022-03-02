@@ -54,3 +54,11 @@ img {
 .author {
   display: flex;
 }
+
+.profile-img {
+  border-radius: 50%;
+  overflow: hidden;
+  height: 40px;
+  width: 40px;
+}
+

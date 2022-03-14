@@ -125,4 +125,4 @@ click here - [Day 17](movie-app/day17.md)
 
 Background Slider
 
-click here - [Day 18](https://github.com/KaranChandekar/BackgroundSlid)
+click here - [Day 18](https://github.com/KaranChandekar/BackgroundSlider)

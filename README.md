@@ -119,3 +119,10 @@ click here - [Day 16](drink-water/day16.md)
 Movie App
 
 click here - [Day 17](movie-app/day17.md)
+
+
+## Day 18
+
+Background Slider
+
+click here - [Day 18](https://github.com/KaranChandekar/BackgroundSlid)

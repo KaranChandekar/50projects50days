@@ -147,3 +147,10 @@ click here - [Day 20](button-ripple/day20.md)
 Drag N Drop
 
 click here - [Day 21](https://github.com/KaranChandekar/drag-n-drop)
+
+
+## Day 22
+
+Kinetic Loader
+
+click here - [Day 22](kinetic-loader/day22.md)

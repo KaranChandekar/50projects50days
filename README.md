@@ -154,3 +154,10 @@ click here - [Day 21](https://github.com/KaranChandekar/drag-n-drop)
 Kinetic Loader
 
 click here - [Day 22](kinetic-loader/day22.md)
+
+
+## Day 23
+
+Content Placeholder
+
+click here - [Day 23](content-placeholder/day23.md)

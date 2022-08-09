@@ -145,3 +145,9 @@ click here - [Day 23](content-placeholder/day23.md)
 Sticky Navbar
 
 click here - [Day 24](https://github.com/KaranChandekar/Sticky-Navbar)
+
+## Day 25
+
+Vertical Slidebar
+
+click here - [Day 25](https://github.com/KaranChandekar/Double-Vertical-Slider)

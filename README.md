@@ -151,3 +151,9 @@ click here - [Day 24](https://github.com/KaranChandekar/Sticky-Navbar)
 Vertical Slidebar
 
 click here - [Day 25](https://github.com/KaranChandekar/Double-Vertical-Slider)
+
+## Day 26
+
+Toast Notification
+
+click here - [Day 26](https://github.com/KaranChandekar/Toast-Notification)

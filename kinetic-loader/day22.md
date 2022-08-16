@@ -17,7 +17,7 @@ Created a Kinetic Loader!
  
 ## about me
 
- - [Twitter](https://twitter.com/karan_chandekar)
+ - [Twitter](https://twitter.com/karanchandekar1)
  - [Linkedin](https://www.linkedin.com/in/karan-chandekar-a87263219/)
 
 
